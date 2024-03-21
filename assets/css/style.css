@@ -1,0 +1,33 @@
+.col-sm-12 {
+  padding-top: 30px;
+}
+.col-md-12 {
+  padding-top: 40px;
+}
+
+.col-lg-3, .col-md-6 {
+  padding-top: 50px;
+}
+
+.accordion-item, .accordion-button {
+  background-color: rgba(68, 68, 68, 0.89);
+}
+
+.accordion-header, .accordion-body, .accordion-button {
+  color: white;
+}
+
+.glow {
+  color: #040047;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(0, 238, 255),
+    0 0 82px rgb(0, 238, 255),
+    0 0 92px rgb(0, 238, 255),
+    0 0 102px rgb(0, 238, 255),
+    0 0 151px rgb(0, 238, 255);
+    text-align: center;
+    font-weight: 700;
+}
